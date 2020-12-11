@@ -18,5 +18,3 @@ del phonebook_dict["Alice"] # deleted Alice from dict
 phonebook_dict["Bob"] = "968-345-2345"
 
 print(phonebook_dict)
-
-print()

@@ -16,4 +16,7 @@ ramit = {
   ]
 }
 
-print(ramit["email"])
+print(ramit["email"]) #1
+print(ramit["interests"][0]) #2
+print(ramit['friends'][0]['email']) #3
+print(ramit['friends'][1]['interests'][1]) #4
